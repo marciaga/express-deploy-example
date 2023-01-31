@@ -6,11 +6,13 @@ export const cats = [
   {
     name: "Pepper",
     personality: "troublemaker",
+    color: "black",
     id: 123,
   },
   {
     name: "Tron",
     personality: "extra spicy",
+    color: "tuxedo",
     id: 5709,
   },
 ];
